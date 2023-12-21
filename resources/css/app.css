@@ -1,0 +1,5 @@
+/* untuk masukkan komponen tailwind ke dalam css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
